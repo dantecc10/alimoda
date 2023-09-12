@@ -1,0 +1,18 @@
+/* Estilos para el div */
+
+.alimoda-bg {
+  background-image: linear-gradient(to right, deeppink 4px, white 4px) !important;
+  background-size: 8px 100% !important;
+}
+
+.alimoda-bg i {
+  color: rgb(59, 4, 23) !important;
+  /*text-shadow: -1px 5px #7b53bb !important;*/
+}
+
+.alimoda-bg span {
+  color: black !important;
+  font-weight: bolder;
+  text-shadow: -1px 5px #7b53bb !important;
+}
+
